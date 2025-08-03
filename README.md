@@ -67,10 +67,10 @@ More roles will be added as needed.
 
 | Role             | Name / Contact           | Description                                |
 |------------------|---------------------------|--------------------------------------------|
-| President        | *(To be updated)*         | Oversees the society's vision & operations |
-| Vice-President   |     | Coordinates subcommittees and outreach     |
-| Tech Lead (1)                  | Web development & architecture             |
-| Tech Lead (2)    | *(To be added)*           | Frontend, backend, or integration support  |
+| President        | Orchi       | Oversees the society's vision & operations |
+| Vice-President   |   Turab  | Coordinates subcommittees and outreach     |
+| Tech Lead (1)        Aneira          | Web development & architecture             |
+| Tech Lead (2)    | Wasif         | Frontend, backend, or integration support  |
 | General Email    | [utsbdsoc@gmail.com](mailto:utsbangladeshisoc@gmail.com) | General queries & collaborations     |
 | Instagram        | [@utsbdsoc]([https://instagram.com/utsbdsoc](https://www.instagram.com/utsbdsoc)) | Event updates & community engagement |
 
