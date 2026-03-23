@@ -1,74 +1,85 @@
 <div align="center">
 
-# UTS Bangladeshi Society
+<br>
 
-**UTSBDSOC**
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=32&duration=3000&pause=2000&color=1A1A1A&center=true&vCenter=true&width=500&lines=UTS+Bangladeshi+Society" alt="UTSBDSOC" />
 
-[![Instagram](https://img.shields.io/badge/Instagram-%40utsbdsoc-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/utsbdsoc)
-[![Email](https://img.shields.io/badge/Email-utsbangladeshisoc%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:utsbangladeshisoc@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-UTSBDSOC-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/utsbdsoc)
+<br>
 
-A vibrant student community at the University of Technology Sydney dedicated to celebrating Bangladeshi culture, fostering friendships, and creating unforgettable experiences.
+<p>
+  <em>Celebrating culture. Building community. Creating memories.</em>
+</p>
+
+<br>
+
+<a href="https://www.instagram.com/utsbdsoc"><img src="https://img.shields.io/badge/─── %20Instagram%20 ───-utsbdsoc-000?style=flat&labelColor=000&color=111" alt="Instagram" /></a>
+&nbsp;&nbsp;
+<a href="mailto:utsbangladeshisoc@gmail.com"><img src="https://img.shields.io/badge/─── %20Email%20 ───-utsbangladeshisoc-000?style=flat&labelColor=000&color=111" alt="Email" /></a>
+
+<br><br>
+
+<img width="600" src="https://github.com/utsbdsoc/.github/blob/main/assets/divider.png" alt="" />
 
 </div>
 
----
+<br>
 
-## About Us
+> A home away from home for Bangladeshi students at UTS, and a welcoming space for anyone drawn to our culture. We host cultural nights, casual meetups, and workshops while preserving our community's story through digital archives.
 
-UTSBDSOC is a home away from home for Bangladeshi students at UTS and a welcoming space for anyone interested in our culture.
+<br>
 
-We celebrate heritage through food, music, art, and festivals. We build connections across backgrounds. We host events ranging from cultural nights to casual meetups. And we preserve our community's history by archiving media and milestones for future generations.
+## `01` — What We Build
 
----
+```
+Website              Official site and event pages
+Media Archives       Photos and videos from past events
+Cultural Resources   Educational content about Bangladesh
+Open-Source Tools    Projects from our tech team and contributors
+```
 
-## Our GitHub
+<br>
 
-This org hosts everything we build and maintain as a society:
+## `02` — Contribute
 
-- **Website** — Our official site and event pages
-- **Media Archives** — Photos, videos, and memories from past events
-- **Cultural Resources** — Educational content about Bangladesh for students and the public
-- **Open-Source Tools** — Projects built by our tech team and contributors
+Writers, designers, developers, photographers, and idea-makers are all welcome. You don't need to write code.
 
----
+→ **[CONTRIBUTING.md](./CONTRIBUTING.md)**
 
-## Get Involved
+<br>
 
-You don't have to be a coder to contribute. We welcome writers, designers, developers, photographers, videographers, and anyone with ideas for new events or initiatives.
+## `03` — Team
 
-See **[CONTRIBUTING.md](./CONTRIBUTING.md)** for guidelines.
+```
+Orchi       President          Vision and leadership
+Turab       Vice President     Outreach and coordination
+Wasif       Tech Lead          Architecture, frontend, backend, integrations
+```
 
----
+<br>
 
-## Team
+## `04` — Roadmap
 
-| Role | Name | Focus |
-|:---|:---|:---|
-| President | Orchi | Society vision, leadership, and major decisions |
-| Vice President | Turab | Subcommittee coordination, outreach, and external relations |
-| Tech Lead | Aneira | Web development, architecture, and technical planning |
-| Tech Lead | Wasif | Frontend, backend, integrations, and tech support |
+```
+◻ Launch a modern, mobile-friendly website
+◻ Digitise years of event media
+◻ Publish cultural resources on Bangladeshi history and traditions
+◻ Grow the open-source contributor community
+```
 
----
-
-## What's Next
-
-- Launch a modern, mobile-friendly website
-- Digitise years of event media and make it accessible online
-- Publish cultural resources sharing Bangladeshi history, art, and traditions
-- Grow our open-source contributor community
+<br>
 
 ---
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-utsbangladeshisoc%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:utsbangladeshisoc@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%40utsbdsoc-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/utsbdsoc)
-![Website](https://img.shields.io/badge/Website-Coming%20Soon-3b82f6?style=flat-square&logo=google-chrome&logoColor=white)
+<br>
 
-**Joy Bangla, Joy UTS**
+```
+জয় বাংলা, জয় UTS
+```
 
-*Maintained by the Bangladeshi student community at UTS.*
+<sub>Maintained with care by the Bangladeshi student community at UTS.</sub>
+
+<br><br>
 
 </div>
