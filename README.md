@@ -1,10 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:006a4e,50:f42a41,100:006a4e&height=220&section=header&text=UTSBDSOC&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=UTS%20Bangladeshi%20Society&descSize=18&descColor=ffffffcc&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:006a4e,50:f42a41,100:006a4e&height=180&section=header&fontSize=0" width="100%" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1500&color=006A4E&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Celebrating+culture.+Building+community.;Creating+memories+at+UTS+Sydney.+" alt="Typing SVG" />
+```
+██╗   ██╗████████╗███████╗██████╗ ██████╗ ███████╗ ██████╗  ██████╗
+██║   ██║╚══██╔══╝██╔════╝██╔══██╗██╔══██╗██╔════╝██╔═══██╗██╔════╝
+██║   ██║   ██║   ███████╗██████╔╝██║  ██║███████╗██║   ██║██║     
+██║   ██║   ██║   ╚════██║██╔══██╗██║  ██║╚════██║██║   ██║██║     
+╚██████╔╝   ██║   ███████║██████╔╝██████╔╝███████║╚██████╔╝╚██████╗
+ ╚═════╝    ╚═╝   ╚══════╝╚═════╝ ╚═════╝ ╚══════╝ ╚═════╝  ╚═════╝
+```
+
+**UTS Bangladeshi Society**
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1500&color=006A4E&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Celebrating+culture.+Building+community.;Creating+memories+at+UTS+Sydney." alt="Typing SVG" />
 
 <br>
 
@@ -57,16 +70,6 @@ A home away from home for Bangladeshi students at the University of Technology S
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=3000&color=006A4E&center=true&vCenter=true&repeat=true&width=250&lines=%E2%97%8E+REPOSITORIES" alt="Repositories" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=utsbdsoc&repo=website&theme=default&hide_border=true&title_color=006a4e&icon_color=f42a41&text_color=333333&bg_color=00000000" />
-</a>
 
 </div>
 
@@ -177,18 +180,6 @@ A home away from home for Bangladeshi students at the University of Technology S
 | `02` | Digitise years of event media | <img src="https://img.shields.io/badge/●-planned-aaaaaa?style=flat-square&labelColor=aaa&color=aaa" /> |
 | `03` | Publish Bangladeshi cultural resources | <img src="https://img.shields.io/badge/●-planned-aaaaaa?style=flat-square&labelColor=aaa&color=aaa" /> |
 | `04` | Grow the open-source contributor community | <img src="https://img.shields.io/badge/●-planned-aaaaaa?style=flat-square&labelColor=aaa&color=aaa" /> |
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=3000&color=006A4E&center=true&vCenter=true&repeat=true&width=200&lines=%E2%97%8E+ACTIVITY" alt="Activity" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=utsbdsoc&theme=minimal&hide_border=true&color=006a4e&line=f42a41&point=006a4e&area=true&area_color=006a4e" width="95%" />
 
 </div>
 
